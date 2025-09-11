@@ -1,4 +1,4 @@
-# NumPy & Pandas
+# Numpy & Pandas
 
 This repository contains practice notebooks for data manipulation using NumPy and Pandas.
 
