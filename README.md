@@ -68,4 +68,4 @@ Got questions, feedback, or just want to connect? Don't hesitate to reach out!
 
 ---
 
-Enjoy your data journey! 📊
+Enjoy your data journey! 
